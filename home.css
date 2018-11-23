@@ -1,0 +1,16 @@
+/* botoes */
+.container{
+
+ margin-top:5rem;
+
+}
+.nome{
+	text-align: center;
+	margin-top: 10rem;
+	font-size: 4rem;
+}
+.botoes{
+margin:1.5rem 1rem 0.5rem 7rem;
+width: 120px;
+	
+}
