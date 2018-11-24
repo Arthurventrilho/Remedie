@@ -1,7 +1,7 @@
 /* botoes */
 .container{
 
- margin-top:12rem;
+ margin-top:1rem;
 
 }
 .nome{
@@ -10,8 +10,8 @@
 	font-size: 4rem;
 }
 .botoes{
-margin:3rem 1rem 0.5rem 5rem;
-width: 170px;
+margin:1.5rem 1rem 1rem 1rem;
+width: 300px;
 
 	
 }
