@@ -1,17 +1,73 @@
-/* botoes */
-.container{
+.body {
+	position: absolute;
 
- margin-top:12rem;
+	height: 100%;
+	width: 100%; 
 
+	display: flex;
+	flex-direction: column;
+	align-items: center;
 }
-.nome{
-	text-align: center;
-	margin-top: 10rem;
-	font-size: 4rem;
+
+.header{
+	position: absolute; 
+
+	background-color: transparent;
+
+	height: 60px;
+	width: 100%;
+
+	display: flex;
+	align-items: center;
 }
+
+	.caixa_imagem {
+		position: absolute;
+
+		height: 100%;
+		width: 60px;
+
+		display: flex;
+		align-items: center;
+		justify-content: center;
+	}
+
+		.imagem_voltar {
+			height: 26px;
+			width: 26px;
+		}
+
+		.botão_voltar {
+			background-color: transparent;
+		}
+
+.main {
+	background-color: transparent;
+
+	height: 100%;
+	width: 100%;
+
+	display: flex;
+	align-items: center;
+}
+
+	.container{
+		height: 40%;
+		width: 100%;
+
+		background-color: transparent;
+
+		display: flex;
+		flex-direction: column;
+		justify-content: space-around;  
+	}
+
+		.col-sm {
+			display: flex;
+			justify-content: center;
+
+		}
+
 .botoes{
-margin:3rem 1rem 0.5rem 5rem;
-width: 170px;
-
-	
-}
+	width: 170px;
+}	
