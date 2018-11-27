@@ -33,7 +33,7 @@
 		align-items: center;
 		justify-content: space-around;
 
-		margin-top:5rem;
+		margin-top:2rem;
 
 	}
 
@@ -43,5 +43,6 @@
 	font-size: 4rem;
 }
 .botoes{
+	margin-top: 1rem; 
 	width: 120px;
 }
